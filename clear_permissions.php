@@ -1,0 +1,34 @@
+<?php
+        $_SESSION["fname"]="";
+        $_SESSION['jid']=0;    
+        $_SESSION["title"]="Suspended";
+        $_SESSION["q_create"]=0;
+        $_SESSION["q_read"]=0;
+        $_SESSION["q_update"]=0;
+        $_SESSION["q_delete"]=0;
+        $_SESSION["inv_read"]=0;
+        $_SESSION["inv_issue"]=0;
+        $_SESSION["inv_cancel"]=0;
+        $_SESSION["emp_create"]=0;
+        $_SESSION["emp_main_read"]=0;
+        $_SESSION["emp_wage_read"]=0;
+        $_SESSION["emp_is_active"]=0;
+        $_SESSION["emp_update"]=0;
+        $_SESSION["prod_create"]=0;
+        $_SESSION["prod_main_read"]=0;
+        $_SESSION["prod_cost_read"]=0;
+        $_SESSION["prod_mainx_update"]=0;
+        $_SESSION["prod_active_delete"]=0;
+        $_SESSION["client_create"]=0;
+        $_SESSION["client_read"]=0;
+        $_SESSION["client_main_update"]=0;
+        $_SESSION["client_active_update"]=0;
+        $_SESSION["client_delete"]=0;
+        $_SESSION["sup_create"]=0;
+        $_SESSION["sup_read"]=0;
+        $_SESSION["sup_main_update"]=0;
+        $_SESSION["sup_is_active"]=0;
+        $_SESSION["sup_delete"]=0;
+        $_SESSION["permissions_ctrl"]=0;
+        $_SESSION["is_active"]=0;
+?>
